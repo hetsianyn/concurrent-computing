@@ -1,0 +1,8 @@
+The beginning of the closed section, flow0
+The end of the closed section, flow0
+The beginning of the closed section, flow3
+The end of the closed section, flow3
+The beginning of the closed section, flow2
+The end of the closed section, flow2
+The beginning of the closed section, flow1
+The end of the closed section, flow1
